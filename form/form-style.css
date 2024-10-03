@@ -1,8 +1,17 @@
 @charset "utf-8";
 
-fieldset{
-    margin: 20px;
-    }
-input[type]{
-    border:1px red solid;
+fieldset {
+    margin-bottom: 20px;
+}
+
+input[type] {
+    margin: 10px;
+    border: 1px red solid;
+}
+button{
+    margin-top: 20px;
+}
+
+a{
+    font-size: 0.5rem;
 }
