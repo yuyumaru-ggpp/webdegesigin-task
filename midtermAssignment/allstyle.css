@@ -94,3 +94,7 @@ body {
     background: linear-gradient(to right, #0073e6, #00c6ff);
 }
 
+ul {
+    list-style-type:circle;
+}
+
